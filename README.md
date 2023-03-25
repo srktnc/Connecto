@@ -1,6 +1,6 @@
 ## Connecto
 
-Connecto is a customizable C# library for managing HTTP requests, based on the popular AxiosJS library. It provides a powerful tool for developers working with C# and Unity, allowing them to easily manage HTTP requests and customize the library to meet their project's needs.
+Connecto is a customizable C# library for managing HTTP requests, inspired by the popular AxiosJS library. It provides a powerful tool for developers working with C# and Unity, allowing them to easily manage HTTP requests and customize the library to meet their project's needs.
 
 ## Features
 
